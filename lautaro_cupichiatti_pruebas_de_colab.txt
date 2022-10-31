@@ -1,0 +1,33 @@
+prueba de python-funciones
+1)definir que es una funcion: una funcion es un bloque de cofigos encargada de una accion especifica.
+
+ejerciocio numero 1 dada la siguiente funcion indicar la respuesta correcta
+   def suma5y7():
+    printf(f"el redultado es {5+7}")
+ -> imprimir resultado
+suma5y7()
+ seleccionar respuesta correcta
+A)obtenemos 5 en pantalla
+B)obtenemos un errror
+C)aparece un asterisco en pantalla
+D)obtendremos 12 en pantalla. esta es la correcta
+E)ninguna es correcta
+
+problema 2
+mivariable=13
+def funcion(parametro):
+    variable=13
+    print(f"la variable global que has definido antes valia{mivariable}")
+    print(f"el valor de la variable local es {variable}")
+    print(f"el parametro con el que llamamos a la función vale{parametro}")
+funcion("programacion").
+
+1)indicar cual es el parametro de la funcion y la variable dentro del contexto de la funcion
+si son o no accesibles.
+ninguna es accesible porque estan adentro de la funcion.
+
+2)indicar cual es la variable global, la variable local y el parametro.
+la variable global es mivariable, la local es variable,
+
+3)indicar que valor toma el parametro.
+el parametro toma el valor de programacion.
